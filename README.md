@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Product catalogue
 
 A small web catalogue for browsing, searching, and sending product enquiries. The demo uses 12 bundled products and a local email inbox.
@@ -32,3 +33,7 @@ npm run build
 ```
 
 The HTTP tests run against a local Express instance with controlled mail delivery. To verify the SMTP integration, follow the browser walkthrough and check the inbox. See [decisions and assumptions](DECISIONS.md) and [AI usage](AI_USAGE.md) for the reasoning and review notes.
+=======
+# product-catalogue
+React and Node.js simple catalogue
+>>>>>>> origin/main
